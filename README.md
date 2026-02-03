@@ -1,4 +1,4 @@
-# EaglercraftXServer
+# Eaglerlol
 
 ### An industrial-grade Eaglercraft server
 
